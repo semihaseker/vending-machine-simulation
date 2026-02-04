@@ -45,7 +45,13 @@ vending-machine-simulation/
 │   └── vending_machine_simulation.m
 │
 ├── images/
-│   └── (product and coin images)
+│   ├── welcome.png
+│   ├── selection.png
+│   ├── payment.png
+│   └── success.png
+│
+├── report/
+│   └── EngProjectReport.pdf
 │
 └── README.md
 
@@ -56,14 +62,14 @@ vending-machine-simulation/
 ## ▶️ How to Run
 
 1. Install GNU Octave or MATLAB
-2. Clone this repository:
+2. Clone the repository:
 
 ```bash
 git clone https://github.com/semihaseker/vending-machine-simulation.git
 ````
 
 3. Open Octave / MATLAB
-4. Navigate to the src folder
+4. Navigate to the `src` folder
 5. Run:
 
 ```matlab
@@ -75,20 +81,40 @@ vending_machine_simulation
 ## 📸 Screenshots
 
 ### Welcome Screen
+
 ![Welcome](images/welcome.png)
 
 ### Product Selection
+
 ![Selection](images/selection.png)
 
 ### Payment Screen
+
 ![Payment](images/payment.png)
 
 ### Success Screen
-![Success](images/success.png)
 
+![Success](images/success.png)
 
 These screenshots demonstrate the main workflow of the vending machine simulation,
 from product selection to successful payment.
+
+---
+
+## 📄 Project Report
+
+You can find the detailed project report of this project below:
+
+📘 [Download Report](report/EngProjectReport.pdf)
+
+The report includes:
+
+* Project objectives
+* Design process
+* Implementation details
+* Testing and evaluation
+* Challenges and solutions
+* Future improvements
 
 ---
 
@@ -97,14 +123,4 @@ from product selection to successful payment.
 * Semiha Şeker
 * Yahya Tarık Tabağ
 
----
-
-## 🚀 Future Improvements
-
-* Online payment simulation
-* Database integration
-* More product categories
-* Mobile-friendly interface
-
 ```
-

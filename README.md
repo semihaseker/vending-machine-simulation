@@ -74,17 +74,18 @@ vending_machine_simulation
 
 ## 📸 Screenshots
 
-### 🏠 Welcome Screen
-![Welcome](screenshots/welcome.png)
+### Welcome Screen
+![Welcome](images/welcome.png)
 
-### 🛍️ Product Selection
-![Selection](screenshots/selection.png)
+### Product Selection
+![Selection](images/selection.png)
 
-### 💳 Payment Screen
-![Payment](screenshots/payment.png)
+### Payment Screen
+![Payment](images/payment.png)
 
-### ✅ Payment Completed
-![Success](screenshots/success.png)
+### Success Screen
+![Success](images/success.png)
+
 
 These screenshots demonstrate the main workflow of the vending machine simulation,
 from product selection to successful payment.
